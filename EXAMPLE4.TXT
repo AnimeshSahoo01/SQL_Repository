@@ -1,0 +1,12 @@
+SQL> SELECT DNAME,LOC
+  2  FROM DEPT;
+
+DNAME          LOC                                                                                  
+-------------- -------------                                                                        
+TESTING        BANGLORE                                                                             
+ACCOUNTING     NEW YORK                                                                             
+RESEARCH       DALLAS                                                                               
+SALES          CHICAGO                                                                              
+OPERATIONS     BOSTON                                                                               
+
+SQL> SPOOL OFF
