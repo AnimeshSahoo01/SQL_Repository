@@ -1,0 +1,12 @@
+SQL> SELECT DNAME
+  2  FROM DEPT;
+
+DNAME                                                                                               
+--------------                                                                                      
+TESTING                                                                                             
+ACCOUNTING                                                                                          
+RESEARCH                                                                                            
+SALES                                                                                               
+OPERATIONS                                                                                          
+
+SQL> SPOOL OFF
