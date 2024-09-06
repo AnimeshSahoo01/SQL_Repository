@@ -1,0 +1,24 @@
+SQL> SELECT ENAME,JOB
+  2  FROM EMP;
+
+ENAME      JOB                                                                                                                                                                                          
+---------- ---------                                                                                                                                                                                    
+ANI        MANAGER                                                                                                                                                                                      
+SMITH      CLERK                                                                                                                                                                                        
+ALLEN      SALESMAN                                                                                                                                                                                     
+WARD       SALESMAN                                                                                                                                                                                     
+JONES      MANAGER                                                                                                                                                                                      
+MARTIN     SALESMAN                                                                                                                                                                                     
+BLAKE      MANAGER                                                                                                                                                                                      
+CLARK      MANAGER                                                                                                                                                                                      
+SCOTT      ANALYST                                                                                                                                                                                      
+KING       PRESIDENT                                                                                                                                                                                    
+TURNER     SALESMAN                                                                                                                                                                                     
+ADAMS      CLERK                                                                                                                                                                                        
+JAMES      CLERK                                                                                                                                                                                        
+FORD       ANALYST                                                                                                                                                                                      
+MILLER     CLERK                                                                                                                                                                                        
+
+15 rows selected.
+
+SQL> SPOOL OFF
