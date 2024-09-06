@@ -1,0 +1,12 @@
+SQL> SELECT DISTINCT JOB
+  2  FROM EMP;
+
+JOB                                                                                                                                                                                                     
+---------                                                                                                                                                                                               
+CLERK                                                                                                                                                                                                   
+SALESMAN                                                                                                                                                                                                
+PRESIDENT                                                                                                                                                                                               
+MANAGER                                                                                                                                                                                                 
+ANALYST                                                                                                                                                                                                 
+
+SQL> SPOOL OFF
