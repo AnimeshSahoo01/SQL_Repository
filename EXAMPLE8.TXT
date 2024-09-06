@@ -1,0 +1,24 @@
+SQL> SELECT ENAME AS EMPNAME,SAL AS SALARY
+  2  FROM EMP;
+
+EMPNAME        SALARY                                                                                                                                                                                   
+---------- ----------                                                                                                                                                                                   
+ANI              8000                                                                                                                                                                                   
+SMITH             800                                                                                                                                                                                   
+ALLEN            1600                                                                                                                                                                                   
+WARD             1250                                                                                                                                                                                   
+JONES            2975                                                                                                                                                                                   
+MARTIN           1250                                                                                                                                                                                   
+BLAKE            2850                                                                                                                                                                                   
+CLARK            2450                                                                                                                                                                                   
+SCOTT            3000                                                                                                                                                                                   
+KING             5000                                                                                                                                                                                   
+TURNER           1500                                                                                                                                                                                   
+ADAMS            1100                                                                                                                                                                                   
+JAMES             950                                                                                                                                                                                   
+FORD             3000                                                                                                                                                                                   
+MILLER           1300                                                                                                                                                                                   
+
+15 rows selected.
+
+SQL> SPOOL OFF
