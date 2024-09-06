@@ -1,0 +1,24 @@
+SQL> SELECT JOB AS DESIGNATION
+  2  FROM EMP;
+
+DESIGNATI                                                                                                                                                                                               
+---------                                                                                                                                                                                               
+MANAGER                                                                                                                                                                                                 
+CLERK                                                                                                                                                                                                   
+SALESMAN                                                                                                                                                                                                
+SALESMAN                                                                                                                                                                                                
+MANAGER                                                                                                                                                                                                 
+SALESMAN                                                                                                                                                                                                
+MANAGER                                                                                                                                                                                                 
+MANAGER                                                                                                                                                                                                 
+ANALYST                                                                                                                                                                                                 
+PRESIDENT                                                                                                                                                                                               
+SALESMAN                                                                                                                                                                                                
+CLERK                                                                                                                                                                                                   
+CLERK                                                                                                                                                                                                   
+ANALYST                                                                                                                                                                                                 
+CLERK                                                                                                                                                                                                   
+
+15 rows selected.
+
+SQL> SPOOL C:\SQLEXAMPLE10.TXT
