@@ -1,0 +1,22 @@
+SQL> SELECT DISTINCT SAL
+  2  FROM EMP;
+
+       SAL                                                                                                                                                                                              
+----------                                                                                                                                                                                              
+      2450                                                                                                                                                                                              
+      5000                                                                                                                                                                                              
+      1300                                                                                                                                                                                              
+      1250                                                                                                                                                                                              
+      2850                                                                                                                                                                                              
+      2975                                                                                                                                                                                              
+      1100                                                                                                                                                                                              
+      3000                                                                                                                                                                                              
+      8000                                                                                                                                                                                              
+       800                                                                                                                                                                                              
+      1600                                                                                                                                                                                              
+      1500                                                                                                                                                                                              
+       950                                                                                                                                                                                              
+
+13 rows selected.
+
+SQL> SPOOL OFF
